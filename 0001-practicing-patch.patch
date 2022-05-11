@@ -1,0 +1,24 @@
+From a7c7bb4afe9887917f88f5a3630e8613a2623fee Mon Sep 17 00:00:00 2001
+From: Raza Ghulam <ahmad.abdali001@gmail.com>
+Date: Tue, 10 May 2022 19:18:56 -0700
+Subject: [PATCH] practicing patch
+
+---
+ abc.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/abc.txt b/abc.txt
+index da30f25..5ff583e 100644
+--- a/abc.txt
++++ b/abc.txt
+@@ -2,4 +2,4 @@ Hi how are you?
+ 
+ Just added for testing purpose
+ 
+-# 
+\ No newline at end of file
++#  This for patch 
+\ No newline at end of file
+-- 
+2.22.0
+
